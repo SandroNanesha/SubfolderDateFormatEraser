@@ -1,0 +1,9 @@
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\bin\Debug\EsasingApp.exe.config
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\bin\Debug\EsasingApp.exe
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\bin\Debug\EsasingApp.pdb
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.csprojAssemblyReference.cache
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.Form1.resources
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.Properties.Resources.resources
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.csproj.GenerateResource.cache
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.exe
+C:\Users\giorg\source\repos\EsasingApp\EsasingApp\obj\Debug\EsasingApp.pdb
